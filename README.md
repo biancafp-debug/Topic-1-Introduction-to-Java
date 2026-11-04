@@ -5,3 +5,7 @@ Practical 1 : Calculate Average
 
 Prcatical 2: Calculate Total cost of n items
   A shopper wants to buy n items and wants to calculate the total cost of all items, including tax. The tax rate is 8%. Write a java programm that calculates the total cost including tax for n items, each costing 20 pounds;
+
+Practical 3: Calculate the weekly salary of an employee 
+  A company wants to calculate the weekly salary of its employees, who are paid a base salary
+  of £500 and receive £10 for each hour they work. 

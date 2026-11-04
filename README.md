@@ -30,3 +30,8 @@ The practicals are all based on TOPIC 1 from the first week, where an introducti
 ### Practical 1: Calculate the average of three numbers
 
 *A java programm that calculates the average of three numbers, using hardcoded numbers.*
+
+### Practical 2: Calculate the remainder of two numbers
+
+*A Java programm that calculates that takes two integers as input and calculates their remainder
+when divided by 7. The programm should print the results.*

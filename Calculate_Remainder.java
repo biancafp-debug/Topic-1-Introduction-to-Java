@@ -1,4 +1,4 @@
-public class Calculate_Remaider {
+public class Calculate_Remainder {
     static int remainder(int remainder) {
         return remainder%7;
     }
